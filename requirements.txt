@@ -10,4 +10,4 @@ keras-tuner==1.3.5
 dask==2023.10.0
 optuna==3.3.0
 joblib==1.4.2
-scikeras
+scikeras==0.13.0
